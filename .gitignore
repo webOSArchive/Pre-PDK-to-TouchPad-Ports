@@ -1,0 +1,13 @@
+# Game packages — downloaded from the webOS App Museum, never committed
+*.ipk
+
+# Python build artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
