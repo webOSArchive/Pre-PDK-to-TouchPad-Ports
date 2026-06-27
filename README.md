@@ -1,7 +1,7 @@
-# touchpad-pdk — Porting Palm Pre PDK games to the HP TouchPad
+# Porting Palm Pre PDK games to the HP TouchPad
 
 A workspace for patching **Palm Pre webOS PDK games** (native C/C++/ARM `.ipk` packages) so they
-run — and look better — on the **HP TouchPad**, while staying backward-compatible with the Pre
+run — and *look better* — on the **HP TouchPad**, while staying backward-compatible with the Pre
 where possible.
 
 There is **no source code** for these games. All work is done by **surgically patching the shipped
